@@ -5,19 +5,10 @@
 
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/boya-medellin/2048-game
-
-# Go into the repository
-$ cd electron-markdownify
-
 # Make
 $ make
-
 # Run the app
 $ ./game
-
-
 ```
 # Directional movement: 
 * h = left
