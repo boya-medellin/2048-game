@@ -1,4 +1,4 @@
-<h4 align="center">A clone of the 2048 puzzle game </h4>
+<h2 align="center">A clone of the 2048 puzzle game </h2>
 
 
 ## How To Use
@@ -10,7 +10,7 @@ $ make
 # Run the app
 $ ./game
 ```
-# Directional movement: 
+## Directional movement: 
 * h = left
 * j = down
 * k = up
